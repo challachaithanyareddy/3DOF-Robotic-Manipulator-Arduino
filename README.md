@@ -1,2 +1,11 @@
-# EVALUATION-OF-DYNAMIC-PERFORMANCE-OF-A-ROBOTIC-MANIPULATOR-USING-PWM-DRIVEN-SERVO-ACTUATORS-
-A low-cost Arduino UNO robotic arm with 3-DOF servo control, serial command interface, coordinated macro movements, smooth PWM-based motion, and Wokwi simulation. Designed for robotics education, prototyping, and embedded systems.
+# 3DOF Robotic Manipulator using Arduino UNO
+
+Arduino-based 3-DOF robotic manipulator featuring PWM servo control, serial command interface, smooth motion algorithm, macro commands, and Wokwi simulation.
+
+## Features
+- Arduino UNO
+- 3 Servo Motors
+- PWM Control
+- Smooth Motion
+- Serial Commands
+- Wokwi Simulation
